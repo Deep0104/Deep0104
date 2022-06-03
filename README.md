@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deep0104
-- 👀 I’m interested in Java Developer Role
-- 🌱 I’m currently learning Outsystems.
+- 👀 I’m interested in OutSystems Developer Role
+- 🌱 I’m currently Working On Outsystems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tawerdeepak200@gmail.com
 
